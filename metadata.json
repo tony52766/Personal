@@ -2,10 +2,11 @@
     "assetName": "Personal",
     "description": "Testing",
     "topics": [
-        "ens-mathematics",
-        "ens-asset"
+        "ens-asset",
+        "ens-mathematics"
     ],
     "associations": [
-        "www.google.com"
+        "www.google.com",
+        "www.github.com"
     ]
 }
